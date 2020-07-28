@@ -20,7 +20,7 @@ I'm a software engineer who loves art, photography, hip-hop, and sci-fi. I am cu
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-![Chris Romero Github Stats](https://github-readme-stats.vercel.app/api?username=christopher&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Chris Romero Github Stats](https://github-readme-stats.vercel.app/api?username=christopherromero&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <br/>
 <a href="https://www.instagram.com/greatshotkid/">
