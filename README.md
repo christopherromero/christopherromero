@@ -1,6 +1,6 @@
 # Christopher Romero 🚀
 
-<img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" height="300" width="400" align="right"></img>
+<img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" height="200" width="300" align="right"></img>
 
 I'm a software engineer who loves art, photography, hip-hop, and sci-fi. I am currently working @Microsoft as a Software Engineer Consultant with a focus on creating Microsoft Azure centric solutions. Currently living in Seattle, WA, USA.
 
